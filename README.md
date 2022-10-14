@@ -4,7 +4,7 @@
 # lucaza21.github.io/cart_alone/
 
 ## Description:
-badbank alone web page uses HTML, JS, CSS, BOOTSTRAP  and STRAPI as local DB to create an app where you can simulate a cart store.
+Restocking Cart alone web page uses HTML, JS, React, CSS, BOOTSTRAP  and STRAPI as local DB to create an app where you can simulate a cart store.
 
 ## Usage: 
 in the different uses you can:
